@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title>YS | Portfolio</title>
+</head>
+<body>
+  <script> 
+    window.location.href = "/";
+  </script>
+</body>
+</html>
